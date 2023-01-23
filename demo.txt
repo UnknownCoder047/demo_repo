@@ -1,1 +1,2 @@
 hello coders this is a demo repo for practing git and github
+ok lets create an app 
